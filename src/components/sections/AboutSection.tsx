@@ -82,9 +82,9 @@ export default function AboutSection() {
       {/* Stats row */}
       <div className="grid grid-cols-2 sm:grid-cols-4 gap-3">
         {[
-          { label: 'years exp', value: '8+' },
-          { label: 'projects', value: '120+' },
-          { label: 'commits', value: '4,200+' },
+          { label: 'years exp', value: '0' },
+          { label: 'projects', value: '1' },
+          { label: 'commits', value: '10' },
           { label: 'coffees', value: '∞' },
         ].map(({ label, value }) => (
           <div key={label} className="bg-[#0c1015] border border-[#1a1f2e] rounded p-3 text-center hover:border-[#39c5cf] transition-colors">
