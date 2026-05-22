@@ -13,7 +13,7 @@ const PROJECTS = [
     size: '1.4 MB',
     perms: 'drwxr-xr-x',
     updated: '2026-05-18',
-    url: '#',
+    url: 'https://github.com/K-Kalyan-B/AttendanceSystem',
   }
 ];
 
